@@ -5,6 +5,6 @@
   -Gestión de Personas
   
 
-#Integrante
+# Integrante
 
   -Alex Churata Mamani
